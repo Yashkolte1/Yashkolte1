@@ -3,7 +3,7 @@
 🎓 Diploma 2nd Year | 💡 Aspiring Software Developer | 🚀 Tech Enthusiast  
 
 Welcome to my GitHub! I'm passionate about building **clean, efficient, and scalable code** while constantly learning new tech.  
-I’m currently exploring **C++, JavaScript, Web Development, and Microprocessor Programming** and seeking exciting opportunities to **grow as a software engineer intern**.  
+I’m currently exploring **Java, JavaScript, Web Development, Python ** and seeking exciting opportunities to **grow as a software engineer intern**.  
 
 ---
 
