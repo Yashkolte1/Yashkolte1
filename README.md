@@ -19,10 +19,10 @@ I’m currently exploring **Java, JavaScript, Web Development, Python ** and see
 ## 🧩 Tech Stack
 | Category               | Tools / Languages |
 |-----------------------|------------------|
-| 💻 Languages          | C++, JavaScript, Java, SQL |
-| 🌐 Web Development    | HTML, CSS, Bootstrap, Tailwind |
+| 💻 Languages          | Python, JavaScript, Java, SQL |
+| 🌐 Web Development    | HTML, CSS, JavaScript |
 | 🛢 Databases          | MySQL, SQLite |
-| ⚙️ Others             | Git, GitHub, VS Code, Microprocessor 8086, Arduino |
+| ⚙️ Others             | Git, GitHub, VS Code,Arduino |
 | 🔬 Currently Learning | Node.js, React.js |
 
 ---
@@ -46,8 +46,8 @@ I’m currently exploring **Java, JavaScript, Web Development, Python ** and see
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="yashkolte2994@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/YashKolte"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
 
