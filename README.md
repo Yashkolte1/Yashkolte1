@@ -27,10 +27,34 @@ I’m currently exploring **Java, JavaScript, Web Development, Python ** and see
 
 ---
 
-## 🚀 Projects Highlight
-- **Smart Parking Management System** – A C++ project integrating OOP concepts, file handling, and exception handling.  
-- **Student Grade Database System** – An RDBMS project to manage and analyze student records.  
-- **8086 Microprocessor Projects** – Assembly-level programs solving real-world computing tasks.  
+## 🚀 Projects Highlight  
+
+### 🎯 Multi-Topic Quiz App  
+A web-based quiz application where users can test their knowledge across multiple topics.  
+- 🔹 Built using **HTML, CSS, JavaScript**  
+- 🔹 Features **dynamic question loading**, **score tracking**, and **category selection**  
+- 🔹 Perfect for **students and learners**  
+
+---
+
+### 🎹 Playable Piano  
+A fun and interactive piano you can play in your browser!  
+- 🎵 Designed using **JavaScript** with **realistic piano sound effects**  
+- 🎵 Supports **keyboard shortcuts** for a smooth experience  
+- 🎵 Great way to **explore web-based sound APIs**  
+
+---
+
+### ⌨️ Typing Speed Test  
+A typing challenge game to measure your typing speed and accuracy.  
+- ⏱️ Developed with **HTML, CSS, JavaScript**  
+- ⏱️ Shows **WPM (Words Per Minute)** and **accuracy percentage**  
+- ⏱️ Helps improve **typing skills for students and programmers**  
+
+---
+
+> 🔗 *Check out my repositories for more detailed documentation and source code.*
+
 
 > 🛠 *More projects coming soon! Check out my repositories.*  
 
@@ -46,7 +70,7 @@ I’m currently exploring **Java, JavaScript, Web Development, Python ** and see
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yash-kolte-b6849b332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="yashkolte2994@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/YashKolte"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
